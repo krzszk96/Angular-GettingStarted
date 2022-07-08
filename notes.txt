@@ -1,0 +1,3 @@
+@ in angular is named Decorator ex. @Component @NgModule
+Using component as a rirective means using it inside another component ??right
+*ngIf *ngFor Directives *->structural directive
